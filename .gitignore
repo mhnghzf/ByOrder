@@ -1,0 +1,6 @@
+# Binaries
+bin/ffmpeg.exe
+bin/yt-dlp.exe
+
+# Node modules
+node_modules/
